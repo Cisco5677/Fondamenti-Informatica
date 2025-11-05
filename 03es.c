@@ -7,7 +7,7 @@ int main() {
 	int a[N];
 	int i;
 	int max=0;
-	int min=100;
+	int min=10000000;
 	
 	printf("Inserimento dell'array\n\n");
 	
@@ -28,3 +28,4 @@ int main() {
 	printf("\nIl valore max dell'array e': %d",max);
 	return 0;
 }
+
