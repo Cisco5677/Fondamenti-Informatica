@@ -8,7 +8,7 @@ L’obiettivo è raccogliere in modo ordinato tutto il lavoro svolto, così da a
 
 Gli esercizi sono organizzati in cartelle tematiche.
 Alcune sezioni contengono già più file (come quella sulle funzioni, aggiornata di recente), mentre altre verranno completate gradualmente.
-
+```
 📦 Esercizi-C
 ├── 📂 c++
 ├── 📂 funzioni
@@ -16,15 +16,15 @@ Alcune sezioni contengono già più file (come quella sulle funzioni, aggiornata
 ├── 📂 puntatori
 ├── 📂 stringhe
 └── 📂 struct
-
+```
 
 ## 🛠️ Compilazione ed Esecuzione
 
 Per compilare ed eseguire un file .c:
-
+```
 gcc nomefile.c -o nomefile
 ./nomefile
-
+```
 
 Per compilare con più warning attivi (consigliato):
 
