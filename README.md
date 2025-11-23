@@ -27,10 +27,10 @@ gcc nomefile.c -o nomefile
 ```
 
 Per compilare con più warning attivi (consigliato):
-
+```c
 gcc -Wall -Wextra -pedantic nomefile.c -o nomefile
-
-🔄 Stato della Repository
+```
+## 🔄 Stato della Repository
 
 📌 Repository in aggiornamento
 Sto caricando e organizzando gradualmente tutti gli esercizi svolti durante l’anno, in modo da mantenere una struttura chiara, pulita e coerente.
